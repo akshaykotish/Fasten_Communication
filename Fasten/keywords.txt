@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Communication
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Communication	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Install	KEYWORD2
+IsConnect	KEYWORD2
+Get_My_IP	KEYWORD2
+Connect	KEYWORD2
+Disconnect	KEYWORD2
+Read	KEYWORD2
+Write	KEYWORD2
+Feedback KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
